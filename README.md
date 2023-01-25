@@ -1,3 +1,7 @@
+<h1> Hello there 👋️, I'am CreepyMemes ☠️ </h1>
+
+<img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/StrandyBot.jpg?raw=true" />
+ 
 ## Languages that I use ⬇️
 
 <div>
