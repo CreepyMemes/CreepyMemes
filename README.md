@@ -1,4 +1,4 @@
-## Languages that I'm using
+## Languages that I use ⬇️
 
 <div>
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/java.png?raw=true" height="50px" />
@@ -10,13 +10,13 @@
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/js.png?raw=true" height="50px" />
 </div>
 
-## Development Environments that I'm using
+## IDEs where I do my work in ⬇️
 
 <div>
  <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" height="50px" />
  <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" height="50px" />
 </div>
 
-## GitHub Stats
+## My GitHub Stats ⬇️
 
 [![stats](https://github-readme-stats.vercel.app/api?username=CreepyMemes&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
