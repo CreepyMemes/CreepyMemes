@@ -11,7 +11,7 @@
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true" height="50px" />
-  <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/js.png?raw=true" height="50px" />
+  <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true" height="50px" />
 </div>
 
 ## IDEs where I do my work in ⬇️
