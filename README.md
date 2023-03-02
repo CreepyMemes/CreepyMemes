@@ -22,4 +22,4 @@
 </div>
 
 ## My GitHub Stats ⬇️
-[![stats](https://github-readme-stats.vercel.app/api?username=CreepyMemes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![cmsta](https://github-readme-stats.vercel.app/api?username=CreepyMemes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
