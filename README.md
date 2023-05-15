@@ -13,8 +13,9 @@
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true" height="50px" />
-  <img src="https://www.glfw.org/img/favicon/favicon-196x196.png" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/opengl.png?raw=true" height="45px" />
+  <img src="https://www.glfw.org/img/favicon/favicon-196x196.png" height="50px" />
+  
 </div>
 
 ## IDEs where I do my work in ⬇️
