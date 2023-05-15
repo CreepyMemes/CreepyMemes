@@ -1,4 +1,4 @@
-<h1> Hi there, this is CreepyMemes </h1>
+<h1> Hi there, this is CreepyMemes👋 </h1>
 
 <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/StrandyBot.jpg?raw=true" height="200px" />
  
