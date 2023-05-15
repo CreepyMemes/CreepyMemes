@@ -2,7 +2,7 @@
 
 <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/StrandyBot.jpg?raw=true" height="200px" />
  
-## Languages that I use ⬇️
+## Languages/Tools that I use ⬇️
 
 <div>
   <!-- <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/java.png?raw=true" height="50px" /> -->
