@@ -7,7 +7,7 @@
 
 I'm a University Student currently studying: 
 - Software Engineering 💻
-- Automation 🤖
+- Automation Engineering 🤖
 
 ## Languages / Tools that I use ⬇️
 <div>
