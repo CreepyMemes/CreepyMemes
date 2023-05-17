@@ -5,7 +5,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes)](https://github.com/CreepyMemes) [![GitHub followers](https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow)](https://github.com/CreepyMemes?tab=followers)
 
-I'm a University Student currently studying Software Engineering and Automation, this is my personal GitHub profile
+I'm a University Student currently studying: 
+- Software Engineering 💻
+- Automation 🤖
 
 ## Languages / Tools that I use ⬇️
 <div>
@@ -20,7 +22,6 @@ I'm a University Student currently studying Software Engineering and Automation,
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/opengl.png?raw=true" height="45px" />
   <!-- <img src="https://www.glfw.org/img/favicon/favicon-196x196.png" height="50px" /> -->
-  
 </div>
 
 ## IDEs where I do my work in ⬇️
