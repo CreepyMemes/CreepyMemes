@@ -1,9 +1,13 @@
-<h1> Hi there, this is CreepyMemes👋 </h1>
 
-<img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/StrandyBot.jpg?raw=true" height="200px" />
- 
+![Strandy Robot Current Project](icons/banner.png)
+
+<h2> Hi there, this is CreepyMemes👋 </h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes)](https://github.com/CreepyMemes) [![GitHub followers](https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow)](https://github.com/CreepyMemes?tab=followers)
+
+I'm a University Student currently studying Software Engineering and Automation, this is my personal GitHub profile
+
 ## Languages / Tools that I use ⬇️
-
 <div>
   <!-- <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/java.png?raw=true" height="50px" /> -->  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50px" />
@@ -20,7 +24,6 @@
 </div>
 
 ## IDEs where I do my work in ⬇️
-
 <div>
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" height="50px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" height="50px" />
