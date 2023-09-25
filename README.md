@@ -3,7 +3,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes)](https://github.com/CreepyMemes) [![GitHub followers](https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow)](https://github.com/CreepyMemes?tab=followers)
 
-I'm currently studying software and automation engineering at University
+I'm currently studying software and automation engineering at university
 
 ### Languages / Tools that I use:
 <div>
