@@ -16,7 +16,7 @@ I'm currently studying software and automation engineering at university
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true" height="30px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true" height="30px" />
   <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true" height="30px" />
-  <img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/opengl.png?raw=true" height="30px" />
+  <!--<img src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/opengl.png?raw=true" height="30px" /> --> 
   <!-- <img src="https://www.glfw.org/img/favicon/favicon-196x196.png" height="50px" /> -->
 </div>
 
