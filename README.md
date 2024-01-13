@@ -10,33 +10,33 @@ I'm currently studying software and automation engineering at university
 
 ### 📝 Languages that I use:
 
-<img align="left" alt="C"          width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
-<img align="left" alt="Cpp"        width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
-<img align="left" alt="CMake"      width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png"/>
-<img align="left" alt="Python"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true"/>
-<img align="left" alt="Arduino"    width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/>
-<img align="left" alt="Espidf"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/>
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/>
-<img align="left" alt="Html"       width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/>
-<img align="left" alt="Css"        width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/>
+<a href="https://www.gnu.org">         <img align="left" alt="C"          width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></a>
+<a href="https://www.isocpp.org">      <img align="left" alt="Cpp"        width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/></a>
+<a href="https://cmake.org/">          <img align="left" alt="CMake"      width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png"/></a>
+<a href="https://www.python.org/">     <img align="left" alt="Python"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true"/></a>
+<a href="https://www.arduino.cc/">     <img align="left" alt="Arduino"    width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></a>
+<a href="http://tinyurl.com/mrwbrytk"> <img align="left" alt="Espidf"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/></a>
+<a href="https://www.javascript.com/"> <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
+<a href="http://tinyurl.com/y4vmrxfk"> <img align="left" alt="Html"       width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
+<a href="http://tinyurl.com/2p8dj9yf"> <img align="left" alt="Css"        width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
 <br />
 
 #
 
 ### 🛠️ Tools that I work with:
 
-<img align="left" alt="VsCode"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" />
-<img align="left" alt="PlatformIO" width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" />
-<img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Fusion360"  width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/fusion360.png?raw=true" />
+<a href="https://code.visualstudio.com/">                <img align="left" alt="VsCode"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" /></a>
+<a href="https://platformio.org/">                       <img align="left" alt="PlatformIO" width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" /></a>
+<a href="https://git-scm.com/">                          <img align="left" alt="Git"        width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://www.autodesk.com/products/fusion-360/"> <img align="left" alt="Fusion360"  width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/fusion360.png?raw=true" /></a>
 <br />
 
 #
 
 ### 💻 OS's where I do my work in:
-<img align="left" alt="Win11"      width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true" />
-<img align="left" alt="Ubuntu"     width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
-<img align="left" alt="Mint"       width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" />
+<a href="https://www.microsoft.com/en-us/windows"> <img align="left" alt="Win11"  width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true" /></a>
+<a href="https://ubuntu.com/">                     <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" /></a>
+<a href="https://linuxmint.com/">                  <img align="left" alt="Mint"   width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" /></a>
 <br />
 
 #
