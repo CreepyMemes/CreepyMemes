@@ -8,7 +8,7 @@ I'm currently studying software and automation engineering at university
 
 ---
 
-### 📝 Languages that I wortk with:
+### 📝 Languages that I work with:
 
 <a href="https://www.gnu.org">         <img align="left" alt="C"          width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></a>
 <a href="https://www.isocpp.org">      <img align="left" alt="Cpp"        width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/></a>
