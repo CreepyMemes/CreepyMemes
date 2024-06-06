@@ -31,7 +31,7 @@ I am currently studying Software and Automation Engineering at university.
 <a href="https://www.javascript.com/"> <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
 <a href="http://tinyurl.com/y4vmrxfk"> <img align="left" alt="Html"       width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
 <a href="http://tinyurl.com/2p8dj9yf"> <img align="left" alt="Css"        width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
-<br />
+<br>
 
 #
 
@@ -44,15 +44,14 @@ I am currently studying Software and Automation Engineering at university.
 <a href="https://www.arduino.cc/">     <img align="left" alt="Arduino"    width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></a>
 <a href="http://tinyurl.com/mrwbrytk"> <img align="left" alt="Espidf"     width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/></a>
 <a href="https://freertos.org/">                         <img align="left" alt="Freertos"   width="70px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/freertos.png?raw=true"/></a>
-<br />
+<br>
 
 #
 
-### 💻 OS's where I do my work in:
+### 💻 Operative Systems:
 <a href="https://www.microsoft.com/en-us/windows"> <img align="left" alt="Win11"  width="30px" style="padding-right:10px;" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true" /></a>
 <a href="https://ubuntu.com/">                     <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" /></a>
-<a href="https://linuxmint.com/">                  <img align="left" alt="Mint"   width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" /></a>
-<br />
+<br>
 
 #
 
