@@ -20,7 +20,7 @@ I am currently studying Software and Automation Engineering at university.
   - **CAD Modeling and 3D Printing**: Prototyping through CAD and 3D printing techniques
   - **Embedded Programming**: Writing firmware for microcontroller control.
   - **Web Development**: Creating a full-stack interactive interface.
-  - **Cybersecurity**: Securing the internet-exposed server.
+  - **Cybersecurity**: Securing the internet-exposed server running the project.
 
 ### 📝 Languages that I work with:
 
