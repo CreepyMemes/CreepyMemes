@@ -18,7 +18,7 @@ I am currently studying Software and Automation Engineering at university.
 
   - **Electronics and Circuit Design**: Applying the basics of electronics and circuit design.
   - **CAD Modeling and 3D Printing**: Prototyping through CAD and 3D printing techniques
-  - **Embedded Firmware Programming**: Writing firmware for microcontroller control.
+  - **Embedded Programming**: Writing firmware for microcontroller control.
   - **Web Development**: Creating a full-stack interactive interface.
   - **Cybersecurity**: Securing the internet-exposed server.
 
