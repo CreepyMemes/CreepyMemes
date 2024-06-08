@@ -12,7 +12,7 @@ I am currently studying Software and Automation Engineering at university.
 
 - **Competitive Programming**: I enjoy competitive programming challenges as they enhance my skills in data structures and algorithms, sharpen my critical thinking, and improve my problem-solving efficiency.
 
-- **Capture The Flag**: I completed a cybersecurity course by [Cyberchallenge.IT](https://www.cyberchallenge.it/), culminating in a CTF competition. As one of the local winners, I advanced to the nationals, greatly enhancing my cybersecurity knowledge.
+- **Capture The Flag**: I also like doing CTF challenges, I recently completed a cybersecurity course by [Cyberchallenge.IT](https://www.cyberchallenge.it/), culminating in a CTF competition. As one of the local winners, I advanced to the nationals, greatly enhancing my cybersecurity knowledge.
 
 - **Personal Project**: I have a passion for robotics and I am currently working on an AI-based robotics project _(featured in the banner above)_. This project has enabled me to integrate many skills and technologies, including:
 
