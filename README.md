@@ -10,17 +10,18 @@ I am currently studying Software and Automation Engineering at university.
 
 ### Interests
 
-- **Competitive Programming**: I enjoy competitive programming challenges as they enhance my skills in data structures and algorithms, sharpen my critical thinking, and improve my problem-solving efficiency.
+- **Competitive Programming**: I enjoy competitive programming challenges as they sharpen my critical thinking, and improve my problem-solving skills.
 
-- **Capture The Flag**: I also like doing CTF challenges and recently finished a cybersecurity course by [Cyberchallenge.IT](https://www.cyberchallenge.it/). The course ended with a CTF competition, and I was one of the local winners, which got us into the nationals. It was a great way to level up my cybersecurity skills.
+- **Capture The Flag**: I also like doing CTF challenges and I've followed this CTF course [Cyberchallenge.IT](https://www.cyberchallenge.it/)
 
-- **Personal Project**: I have a passion for robotics and I am currently working on an AI-based robotics project _(featured in the banner above)_. This project has enabled me to integrate many skills and technologies, including:
+- **Personal Project**: I have a passion for robotics and I am currently working on an AI-based robotics project _(featured in the banner above)_.
+  Which made me practice the following skills: 
 
-  - **Electronics and Circuit Design**: Applying the basics of electronics and circuit design.
-  - **CAD Modeling and 3D Printing**: Prototyping through CAD and 3D printing techniques
-  - **Embedded Programming**: Writing firmware for microcontroller control.
-  - **Web Development**: Creating a full-stack interactive interface.
-  - **Cybersecurity**: Securing the internet-exposed server running the project.
+  - ⚡**Electronics and Circuit Design**
+  - 🖨️**CAD Modeling and 3D Printing**
+  - 📟**Embedded Programming**
+  - 🖥️**Web Development**
+  - 🔒**Cybersecurity Measures**
 
 ### 📝 Languages that I work with:
 
