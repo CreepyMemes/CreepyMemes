@@ -10,7 +10,7 @@
 <a href="https://github.com/CreepyMemes"><img src="https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow"/></a>
 </p>
 
-<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlndnRlejV3aXQzMDJyNThzdnZzbzE4eDlyOW1hdjZoc3FzZWJpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/computer.gif?raw=true">
 <h3 align="left">Intrests:</h3>
 
 - 🖥️ Web Development
@@ -51,7 +51,8 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyMemes&layout=compact&theme=dark" alt=CreepyMemes /> &nbsp;
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CreepyMemes&show_icons=true&locale=en&theme=dark" alt="CreepyMemes" />
