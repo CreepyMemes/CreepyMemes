@@ -22,22 +22,23 @@
 - ⚛️ Physics
 
 <br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-&nbsp; <a href="https://www.gnu.org"><img align="left" alt="C" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></a>
-&nbsp; <a href="https://www.isocpp.org"><img align="left" alt="Cpp" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/></a>
-&nbsp; <a href="https://cmake.org/"><img align="left" alt="CMake" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png"/></a>
-&nbsp; <a href="https://www.python.org/"><img align="left" alt="Python" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true"/></a>
-&nbsp; <a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
-&nbsp; <a href="http://tinyurl.com/y4vmrxfk"><img align="left" alt="Html" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
-&nbsp; <a href="http://tinyurl.com/2p8dj9yf"><img align="left" alt="Css" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
-&nbsp; <a href="https://code.visualstudio.com/"><img align="left" alt="VsCode" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" /></a>
-&nbsp; <a href="https://platformio.org/"><img align="left" alt="PlatformIO" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" /></a>
-&nbsp; <a href="https://git-scm.com/"><img align="left" alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-&nbsp; <a href="https://www.autodesk.com/products/fusion-360/"> <img align="left" alt="Fusion360"  width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/fusion360.png?raw=true" /></a>
-&nbsp; <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></a>
-&nbsp; <a href="http://tinyurl.com/mrwbrytk"><img align="left" alt="Espidf" width="40" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/></a>
+&nbsp; <a href="https://www.gnu.org"><img align="left" alt="C" width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></a>
+&nbsp; <a href="https://www.isocpp.org"><img align="left" alt="Cpp" width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/></a>
+&nbsp; <a href="https://cmake.org/"><img align="left" alt="CMake" width="35" src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png"/></a>
+&nbsp; <a href="https://www.python.org/"><img align="left" alt="Python" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true"/></a>
+&nbsp; <a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
+&nbsp; <a href="http://tinyurl.com/y4vmrxfk"><img align="left" alt="Html" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
+&nbsp; <a href="http://tinyurl.com/2p8dj9yf"><img align="left" alt="Css" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
+&nbsp; <a href="https://code.visualstudio.com/"><img align="left" alt="VsCode" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" /></a>
+&nbsp; <a href="https://platformio.org/"><img align="left" alt="PlatformIO" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" /></a>
+&nbsp; <a href="https://git-scm.com/"><img align="left" alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+&nbsp; <a href="https://www.autodesk.com/products/fusion-360/"> <img align="left" alt="Fusion360"  width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/fusion360.png?raw=true" /></a>
+&nbsp; <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></a>
+&nbsp; <a href="http://tinyurl.com/mrwbrytk"><img align="left" alt="Espidf" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/></a>
 &nbsp; <a href="https://freertos.org/"><img align="left" alt="Freertos" width="70" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/freertos.png?raw=true"/></a>
 </p>
 
@@ -45,8 +46,8 @@
 
 <h3 align="left">Operative systems:</h3>
 <p align="left">
-&nbsp; <a href="https://www.microsoft.com/en-us/windows"><img align="left" alt="Win11" width="40"" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true" /></a>
-&nbsp; <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" /></a>
+&nbsp; <a href="https://www.microsoft.com/en-us/windows"><img align="left" alt="Win11" width="35"" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true" /></a>
+&nbsp; <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" /></a>
 </p>
 
 <br>
