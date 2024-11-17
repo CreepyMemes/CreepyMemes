@@ -10,7 +10,7 @@
 <a href="https://github.com/CreepyMemes"><img src="https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow"/></a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlndnRlejV3aXQzMDJyNThzdnZzbzE4eDlyOW1hdjZoc3FzZWJpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlndnRlejV3aXQzMDJyNThzdnZzbzE4eDlyOW1hdjZoc3FzZWJpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsE9qckiYyVClQ5bY2/giphy.gif">
 <h3 align="left">Intrests:</h3>
 
 - 🖥️ Web Development
