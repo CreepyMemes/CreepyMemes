@@ -41,7 +41,7 @@
 <a href="https://freertos.org/"><img align="left" alt="Freertos" width="70" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/freertos.png?raw=true"/></a>
 </p>
 
-<br>
+<br><br>
 
 <h3 align="left">Operative systems:</h3>
 <p align="left">
