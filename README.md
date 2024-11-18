@@ -57,5 +57,5 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyMemes&layout=compact&theme=dark" alt=CreepyMemes /> &nbsp;
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CreepyMemes&show_icons=true&locale=en&theme=dark" alt="CreepyMemes" />
 <br><br>
-<img align="center" width="774em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CreepyMemes&theme=dark&langs_count=15&layout=compact&hide=other,xml,text"/>
+<img align="center" width="774em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CreepyMemes&theme=dark&langs_count=14&layout=compact&hide=other,xml,text"/>
 </div>
