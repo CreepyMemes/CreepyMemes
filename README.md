@@ -1,8 +1,8 @@
 <img src="icons/banner.webp" width="100%"/>
 
-<h1 align="center">Hi there👋, This is CreepyMemes</h1>
+<h1 align="center">Hi, I'm CreepyMemes.</h1>
 
-<h3 align="center">I'm pursuing a degree in Software and Automation Engineering while also working on a robotics hobby project featured in the banner above.</h3>
+<h3 align="center">I'm studying Software and Automation Engineering and working on a robotics project in my spare time, which you can see in the banner above.</h3>
 
 <p align="left"> 
 <a href="https://github.com/CreepyMemes"><img src="https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes"/></a>
@@ -16,8 +16,8 @@
 - 🖥️ Web Development
 - 🔒 Cybersecurity
 - 📟 Embedded Programming
-- ⚡ Electronics and Circuit Design
-- 🖨️ CAD Modeling and 3D Printing
+- ⚡ Electronics & Circuit Design
+- 🖨️ CAD Modeling & 3D Printing
 - 🧮 Mathematics
 - ⚛️ Physics
 
