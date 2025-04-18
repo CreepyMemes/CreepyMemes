@@ -11,7 +11,7 @@
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/computer.gif?raw=true">
-<h3 align="left">Intrests:</h3>
+<h3 align="left">Interests:</h3>
 
 - 🖥️ Web Development
 - 🔒 Cybersecurity
