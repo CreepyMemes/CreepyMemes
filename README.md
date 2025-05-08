@@ -32,6 +32,8 @@
 <a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
 <a href="http://tinyurl.com/y4vmrxfk"><img align="left" alt="Html" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
 <a href="http://tinyurl.com/2p8dj9yf"><img align="left" alt="Css" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
+<a href="https://react.dev/"><img align="left" alt="Freertos" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/react.svg?raw=true"/></a>
+<a href="https://docker.com/"><img align="left" alt="Freertos" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/docker.png?raw=true"/></a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="VsCode" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/vscode.png?raw=true" /></a>
 <a href="https://platformio.org/"><img align="left" alt="PlatformIO" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/platformio.png?raw=true" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
@@ -39,6 +41,7 @@
 <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/></a>
 <a href="http://tinyurl.com/mrwbrytk"><img align="left" alt="Espidf" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/espidf.png?raw=true"/></a>
 <a href="https://freertos.org/"><img align="left" alt="Freertos" width="70" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/freertos.png?raw=true"/></a>
+  
 </p>
 
 <br><br>
