@@ -29,6 +29,7 @@
 <a href="https://www.isocpp.org"><img align="left" alt="Cpp" width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/></a>
 <a href="https://cmake.org/"><img align="left" alt="CMake" width="35" src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png"/></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/python.png?raw=true"/></a>
+<a href="https://djangoproject.com/"><img align="left" alt="Docker" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/django.svg?raw=true"/></a>
 <a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/javascript.png?raw=true"/></a>
 <a href="http://tinyurl.com/y4vmrxfk"><img align="left" alt="Html" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/html.png?raw=true"/></a>
 <a href="http://tinyurl.com/2p8dj9yf"><img align="left" alt="Css" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/css.png?raw=true"/></a>
