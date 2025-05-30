@@ -19,8 +19,9 @@
 - ⚙️ Systems Infrastructure  
 - 🤖 LLM App Development
 - 📟 Embedded Programming
-- ⚡ Electronics  
-- 🖨️ CAD Modeling  
+- ⚡ Electronics
+- 📐 CAD Modeling  
+- 🖨️ 3D Printing
 - 🧮 Math  
 - ⚛️ Physics  
 
