@@ -13,13 +13,16 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/computer.gif?raw=true">
 <h3 align="left">Interests:</h3>
 
-- 🖥️ Web Development
-- 🔒 Cybersecurity
+- 🖥️ Fullstack Web Development
+- 🔒 Cybersecurity CTF  
+- 🗄️ Self-Hosting  
+- ⚙️ Systems Infrastructure  
+- 🤖 LLM App Development
 - 📟 Embedded Programming
-- ⚡ Electronics
-- 🖨️ CAD Modeling
-- 🧮 Math
-- ⚛️ Physics
+- ⚡ Electronics  
+- 🖨️ CAD Modeling  
+- 🧮 Math  
+- ⚛️ Physics  
 
 <br>
 
