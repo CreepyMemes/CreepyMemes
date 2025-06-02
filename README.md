@@ -39,17 +39,19 @@
   <a href="https://www.javascript.com/"><img alt="Javascript" src="badges/svgs/JavaScript-badge.svg"/></a>
   <a href="http://tinyurl.com/y4vmrxfk"><img alt="Html" src="badges/svgs/Html-badge.svg"/></a>
   <a href="http://tinyurl.com/2p8dj9yf"><img alt="Css" src="badges/svgs/Css-badge.svg"/></a>
+  <a href="https://sass-lang.com/"><img alt="Sass" src="badges/svgs/Sass-badge.svg"/></a>
 </p>
 
 <br>
 
 <h2 align="center">🧩Frameworks </h2>
 <p align="center">
-  <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
+  <a href="https://vite.dev/"><img alt="Vite" src="badges/svgs/Vite-badge.svg"/></a>
   <a href="https://react.dev/"><img alt="React" src="badges/svgs/React-badgde.svg"/></a>
+  <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
   <a href="https://www.arduino.cc/"><img alt="Arduino" src="badges/svgs/Arduino-badge.svg"/></a>
   <a href="http://tinyurl.com/mrwbrytk"><img alt="ESP-IDF" src="badges/svgs/Espidf-badge.svg"/></a>
-  <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/freertos-badge.svg"/></a>
+  <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/Freertos-badge.svg"/></a>
 </p>
 
 <h2 align="center">🔧Tools </h2>
@@ -58,13 +60,22 @@
   <a href="https://platformio.org/"><img alt="PlatformIO" src="badges/svgs/Platformio-badge.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" src="badges/svgs/Git-badge.svg" /></a>
   <a href="https://www.autodesk.com/products/fusion-360/"> <img alt="Fusion360"  src="badges/svgs/Fusion360-badge.svg" /></a>
+  <a href="https://nodejs.org/"><img alt="NodeJS" src="badges/svgs/Nodejs-badge.svg"/></a>
+  <a href="https://eslint.org/"><img alt="Eslint" src="badges/svgs/Eslint-badge.svg"/></a>
+  <a href="https://prettier.io/"><img alt="Prettier" src="badges/svgs/Prettier-badge.svg"/></a>
+  <a href="https://npmjs.com/"><img alt="NPM" src="badges/svgs/Npm-badge.svg"/></a>
+  <a href="https://postgresql.org/"><img alt="Postgres SQL" src="badges/svgs/Postgres-badge.svg"/></a>
+  <a href="https://gunicorn.org/"><img alt="Gunicorn" src="badges/svgs/Gunicorn-badge.svg"/></a>
+  <a href="https://nginx.org/"><img alt="Nginx" src="badges/svgs/Nginx-badge.svg"/></a>
   <a href="https://docker.com/"><img alt="Docker" src="badges/svgs/Docker-badge.svg"/></a>
+  <a href="https://github.com/features/actions/"><img alt="Github Actions" src="badges/svgs/Githubactions-badge.svg"/></a>
 </p>
 
 <h2 align="center">⚙️Operating Systems </h2>
 <p align="center">
-  <a href="#"><img alt="Windows 11" width="35" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/win11.png?raw=true"/></a>
-  <a href="#"><img alt="Ubuntu" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png"/></a>
+  <a href="https://microsoft.com/"><img alt="Windows 11" src="badges/svgs/Windows11-badge.svg"/></a>
+  <a href="https://ubuntu.com/"><img alt="Ubuntu" src="badges/svgs/Ubuntu-badge.svg"/></a>
+  <a href="https://debian.org/"><img alt="Debian" src="badges/svgs/Debian-badge.svg"/></a>
 </p>
 
 <br>
