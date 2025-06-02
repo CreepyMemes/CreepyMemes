@@ -5,8 +5,8 @@ Downloader script because urls would be too long
 import os
 import requests
 
-urls_dir = 'urls'
-output_dir = 'svgs'
+urls_dir: str = 'urls'
+output_dir: str = 'svgs'
 
 os.makedirs(output_dir, exist_ok=True)
 
