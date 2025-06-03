@@ -10,11 +10,9 @@
 
 <h3 align="center">I'm studying Software and Automation Engineering and working on a robotics project in my spare time, which you can see in the banner above.</h3>
 
-<br>
+<h2 align="left">🌟Interests:</h2>
 
 <img align="right" alt="Coding GIF" width="250" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/computer.gif?raw=true"/>
-
-<h2 align="left">🌟Interests:</h2>
 
 - 🖥️ Fullstack Web Dev
 - 🔒 Cybersecurity & CTF
@@ -30,8 +28,8 @@
 
 <br>
 
-<h2 align="center">🖥️Languages</h2>
-<p align="center">
+<h2 align="left">🖥️Languages</h2>
+<p align="left">
   <a href="https://www.gnu.org"><img alt="C" src="badges/svgs/C-badge.svg"/></a>
   <a href="https://www.isocpp.org"><img alt="C++" src="badges/svgs/Cpp-badge.svg"/></a>
   <a href="https://cmake.org/"><img alt="CMake" src="badges/svgs/Cmake-badge.svg"/></a>
@@ -44,8 +42,8 @@
 
 <br>
 
-<h2 align="center">🧩Frameworks </h2>
-<p align="center">
+<h2 align="left">🧩Frameworks </h2>
+<p align="left">
   <a href="https://vite.dev/"><img alt="Vite" src="badges/svgs/Vite-badge.svg"/></a>
   <a href="https://react.dev/"><img alt="React" src="badges/svgs/React-badgde.svg"/></a>
   <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
@@ -54,8 +52,10 @@
   <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/Freertos-badge.svg"/></a>
 </p>
 
-<h2 align="center">🔧Tools </h2>
-<p align="center">
+<br>
+
+<h2 align="left">🔧Tools </h2>
+<p align="left">
   <a href="https://code.visualstudio.com/"><img alt="VsCode" src="badges/svgs/Vscode-badge.svg" /></a>
   <a href="https://platformio.org/"><img alt="PlatformIO" src="badges/svgs/Platformio-badge.svg"/></a>
   <a href="https://git-scm.com/"><img alt="Git" src="badges/svgs/Git-badge.svg" /></a>
@@ -71,8 +71,10 @@
   <a href="https://github.com/features/actions/"><img alt="Github Actions" src="badges/svgs/Githubactions-badge.svg"/></a>
 </p>
 
-<h2 align="center">⚙️Operating Systems </h2>
-<p align="center">
+<br>
+
+<h2 align="left">⚙️Operating Systems </h2>
+<p align="left">
   <a href="https://microsoft.com/"><img alt="Windows 11" src="badges/svgs/Windows11-badge.svg"/></a>
   <a href="https://ubuntu.com/"><img alt="Ubuntu" src="badges/svgs/Ubuntu-badge.svg"/></a>
   <a href="https://debian.org/"><img alt="Debian" src="badges/svgs/Debian-badge.svg"/></a>
@@ -80,7 +82,7 @@
 
 <br>
 
-<h2 align="center"> 📊Statistics</h2>
+<h3 align="center"> 📊Statistics</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyMemes&layout=compact&theme=dark" alt=CreepyMemes /> &nbsp;
