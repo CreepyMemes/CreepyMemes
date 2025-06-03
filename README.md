@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/CreepyMemes"><img src="https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes" alt="Visitors"></a>
-  <a href="https://wakatime.com/@eea42aeb-acf7-497e-a0b3-cb8653023c84"><img src="https://wakatime.com/badge/user/eea42aeb-acf7-497e-a0b3-cb8653023c84.svg" alt="Time coded since Jan 2023" /></a>
+  <a href="https://wakatime.com/@eea42aeb-acf7-497e-a0b3-cb8653023c84"><img src="https://wakatime.com/badge/user/eea42aeb-acf7-497e-a0b3-cb8653023c84.svg" alt="Time coded history" /></a>
   <a href="https://github.com/CreepyMemes"><img src="https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow" alt="GitHub Followers"/></a>
 </p>
 
