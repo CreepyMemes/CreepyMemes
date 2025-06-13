@@ -35,6 +35,7 @@
   <a href="https://cmake.org/"><img alt="CMake" src="badges/svgs/Cmake-badge.svg"/></a>
   <a href="https://www.python.org/"><img alt="Python" src="badges/svgs/Python-badge.svg"/></a>
   <a href="https://www.javascript.com/"><img alt="Javascript" src="badges/svgs/JavaScript-badge.svg"/></a>
+  <a href="https://www.java.com/"><img alt="Java" src="badges/svgs/Java-badge.svg"/></a>
   <a href="http://tinyurl.com/y4vmrxfk"><img alt="Html" src="badges/svgs/Html-badge.svg"/></a>
   <a href="http://tinyurl.com/2p8dj9yf"><img alt="Css" src="badges/svgs/Css-badge.svg"/></a>
   <a href="https://sass-lang.com/"><img alt="Sass" src="badges/svgs/Sass-badge.svg"/></a>
