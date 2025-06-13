@@ -50,7 +50,7 @@
   <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
   <a href="https://www.arduino.cc/"><img alt="Arduino" src="badges/svgs/Arduino-badge.svg"/></a>
   <a href="http://tinyurl.com/mrwbrytk"><img alt="ESP-IDF" src="badges/svgs/Espidf-badge.svg"/></a>
-  <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/freertos-badge.svg"/></a>
+  <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/Freertos-badge.svg"/></a>
 </p>
 
 <br>
