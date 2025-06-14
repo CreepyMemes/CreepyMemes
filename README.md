@@ -45,9 +45,8 @@
 
 <h2 align="left">🧩Frameworks </h2>
 <p align="left">
-  <a href="https://vite.dev/"><img alt="Vite" src="badges/svgs/Vite-badge.svg"/></a>
-  <a href="https://react.dev/"><img alt="React" src="badges/svgs/React-badgde.svg"/></a>
   <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
+  <a href="https://react.dev/"><img alt="React" src="badges/svgs/React-badgde.svg"/></a>
   <a href="https://www.arduino.cc/"><img alt="Arduino" src="badges/svgs/Arduino-badge.svg"/></a>
   <a href="http://tinyurl.com/mrwbrytk"><img alt="ESP-IDF" src="badges/svgs/Espidf-badge.svg"/></a>
   <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/Freertos-badge.svg"/></a>
@@ -59,22 +58,32 @@
 <p align="left">
   <a href="https://code.visualstudio.com/"><img alt="VsCode" src="badges/svgs/Vscode-badge.svg" /></a>
   <a href="https://platformio.org/"><img alt="PlatformIO" src="badges/svgs/Platformio-badge.svg"/></a>
-  <a href="https://git-scm.com/"><img alt="Git" src="badges/svgs/Git-badge.svg" /></a>
-  <a href="https://www.autodesk.com/products/fusion-360/"> <img alt="Fusion360"  src="badges/svgs/Fusion360-badge.svg" /></a>
-  <a href="https://nodejs.org/"><img alt="NodeJS" src="badges/svgs/Nodejs-badge.svg"/></a>
-  <a href="https://eslint.org/"><img alt="Eslint" src="badges/svgs/Eslint-badge.svg"/></a>
-  <a href="https://prettier.io/"><img alt="Prettier" src="badges/svgs/Prettier-badge.svg"/></a>
   <a href="https://npmjs.com/"><img alt="NPM" src="badges/svgs/Npm-badge.svg"/></a>
+  <a href="https://nodejs.org/"><img alt="NodeJS" src="badges/svgs/Nodejs-badge.svg"/></a>
+  <a href="https://vite.dev/"><img alt="Vite" src="badges/svgs/Vite-badge.svg"/></a>
+  <a href="https://webpack.js.org/"><img alt="Webpack" src="badges/svgs/Webpack-badge.svg"/></a>
   <a href="https://postgresql.org/"><img alt="Postgres SQL" src="badges/svgs/Postgres-badge.svg"/></a>
-  <a href="https://gunicorn.org/"><img alt="Gunicorn" src="badges/svgs/Gunicorn-badge.svg"/></a>
-  <a href="https://nginx.org/"><img alt="Nginx" src="badges/svgs/Nginx-badge.svg"/></a>
-  <a href="https://docker.com/"><img alt="Docker" src="badges/svgs/Docker-badge.svg"/></a>
-  <a href="https://github.com/features/actions/"><img alt="Github Actions" src="badges/svgs/Githubactions-badge.svg"/></a>
+  <a href="https://prettier.io/"><img alt="Prettier" src="badges/svgs/Prettier-badge.svg"/></a>
+  <a href="https://eslint.org/"><img alt="Eslint" src="badges/svgs/Eslint-badge.svg"/></a>
+  <a href="https://microsoft.github.io/pyright"><img alt="PyRight" src="badges/svgs/Pyright-badge.svg"/></a>
+  <a href="https://www.autodesk.com/products/fusion-360/"> <img alt="Fusion360"  src="badges/svgs/Fusion360-badge.svg" /></a>
 </p>
 
 <br>
 
-<h2 align="left">⚙️Operating Systems </h2>
+<h2 align="left">♾️DevOps </h2>
+<p align="left">
+  <a href="https://docker.com/"><img alt="Docker" src="badges/svgs/Docker-badge.svg"/></a>
+  <a href="https://nginx.org/"><img alt="Nginx" src="badges/svgs/Nginx-badge.svg"/></a>
+  <a href="https://gunicorn.org/"><img alt="Gunicorn" src="badges/svgs/Gunicorn-badge.svg"/></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="badges/svgs/Git-badge.svg" /></a>
+  <a href="https://github.com/features/actions/"><img alt="Github Actions" src="badges/svgs/Githubactions-badge.svg"/></a>
+  
+</p>
+
+<br>
+
+<h2 align="left">⚙️OS </h2>
 <p align="left">
   <a href="https://microsoft.com/"><img alt="Windows 11" src="badges/svgs/Windows11-badge.svg"/></a>
   <a href="https://ubuntu.com/"><img alt="Ubuntu" src="badges/svgs/Ubuntu-badge.svg"/></a>
